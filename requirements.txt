@@ -1,0 +1,2 @@
+python-a2s>=1.4.2
+requests>=2.31.0
