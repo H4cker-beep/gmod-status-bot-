@@ -36,7 +36,7 @@ SERVER_PORT = int(os.environ.get(
 
 WEBHOOK_URL = os.environ.get(
     "WEBHOOK_URL",
-    "PASTE_YOUR_DISCORD_WEBHOOK_URL_HERE"
+    "https://discord.com/api/webhooks/1557464571332001875/MXvfy8lLXNlB3G7GJDUrfIFdn_44ZgKerFJljAw-A5XmQ9DzcgeZJxYZxm_S-pFVJnKQ"
 )
 
 BOT_NAME = os.environ.get(
